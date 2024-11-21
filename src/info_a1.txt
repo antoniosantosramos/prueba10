@@ -1,4 +1,5 @@
 Soy info_a1
 
-modificando desde master
 remodificando desde master
+y modificando habilmente desde tarea_c
+
